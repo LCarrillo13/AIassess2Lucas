@@ -13,6 +13,12 @@ public class AgentTargetWaypoint : MonoBehaviour
     private Agent2Waypoint[] targetPoint2;
     private Agent3Waypoint[] targetPoint3;
 
+    [SerializeField]
+    private Animator agentAnimator => GetComponentInChildren<Animator>();
+
+    private float walkSpeed = 0.001f;
+
+
     //defining the agent
     [SerializeField] private NavMeshAgent agent1;
     //[SerializeField] private NavMeshAgent agent2;
@@ -26,7 +32,7 @@ public class AgentTargetWaypoint : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        //agentAnimator = GetComponentInChildren<Animator>();
         //agent 1 defined as the specific agent in the gameobject
         //defining the target points to the Transform each of the scripts define
 
@@ -42,6 +48,7 @@ public class AgentTargetWaypoint : MonoBehaviour
         if (!agent1.pathPending && agent1.remainingDistance < 0.1f && agent1.tag == "Agent1")
         {
             agent1.SetDestination(RandomWaypoint1.Position);
+            
         }
 
         if (!agent1.pathPending && agent1.remainingDistance < 0.1f && agent1.tag == "Agent2")
@@ -54,6 +61,6 @@ public class AgentTargetWaypoint : MonoBehaviour
             agent1.SetDestination(RandomWaypoint3.Position);
         }
 
-
+        agentAnimator.SetBool("Running", agent1.velocity.magnitude > walkSpeed);
     }
 }

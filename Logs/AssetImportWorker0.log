@@ -1,0 +1,587 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/piehu/Documents/GitHub/AIassess2Lucas
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61042
+Successfully changed project path to: C:/Users/piehu/Documents/GitHub/AIassess2Lucas
+C:/Users/piehu/Documents/GitHub/AIassess2Lucas
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/piehu/Documents/GitHub/AIassess2Lucas/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti with Max-Q Design (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6647
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56484
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001875 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.079 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000745 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.0 MB.
+System memory in use after: 81.1 MB.
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 1962.
+Total: 1.835700 ms (FindLiveObjects: 0.142100 ms CreateObjectMapping: 0.048100 ms MarkObjects: 1.466300 ms  DeleteObjects: 0.178500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/unity-chan!
+  artifactKey: Guid(a5bdcfb11d455ef4383ba9f00f88e96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan! using Guid(a5bdcfb11d455ef4383ba9f00f88e96d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9946a62f3865a06efac96171678adc') in 0.008793 seconds
+  Import took 0.011352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.162463 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model
+  artifactKey: Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model using Guid(6395fe2434a22ef41b83186b290f8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4875304e848e99bd691a8bff6c1660') in 0.008823 seconds
+  Import took 0.011734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.360221 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs
+  artifactKey: Guid(f875c0a860fab1c498f1ed5edcee2b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs using Guid(f875c0a860fab1c498f1ed5edcee2b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d3334dab537e3283630c54712a493b') in 0.007448 seconds
+  Import took 0.009857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.504183 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/BoxUnityChan.prefab
+  artifactKey: Guid(6788413dff62c534d8ca610faef3c7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/BoxUnityChan.prefab using Guid(6788413dff62c534d8ca610faef3c7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb9969c388785c5a646cb742a509c5f6') in 0.099019 seconds
+  Import took 0.102606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/unitychan_dynamic.prefab
+  artifactKey: Guid(49f2055d53eeb4e5a92af590a44bddee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/unitychan_dynamic.prefab using Guid(49f2055d53eeb4e5a92af590a44bddee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a3189ff999ea3314d1e052def31189') in 0.117416 seconds
+  Import took 0.124166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/LookPos.prefab
+  artifactKey: Guid(6d5bff5837eca402492a89073b17c2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/LookPos.prefab using Guid(6d5bff5837eca402492a89073b17c2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ecf28f5e779c88dba5fa3ad939754c7') in 0.009167 seconds
+  Import took 0.011551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/unitychan.prefab
+  artifactKey: Guid(412b92d4feeb9c548bfa98f62c4d1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/unitychan.prefab using Guid(412b92d4feeb9c548bfa98f62c4d1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36ccc4fe0939b7ff22fb08c28986a09') in 0.078880 seconds
+  Import took 0.087560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/Locator_IKtarget.prefab
+  artifactKey: Guid(88eeda7d3a9f2492da9213d1c1ab46d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/Locator_IKtarget.prefab using Guid(88eeda7d3a9f2492da9213d1c1ab46d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5340d81e29ef43c6196564548ccf79ac') in 0.014128 seconds
+  Import took 0.016728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/Directional light for UnityChan.prefab
+  artifactKey: Guid(b76c71a1e3f6c4fdab657f4fbf5466de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/Directional light for UnityChan.prefab using Guid(b76c71a1e3f6c4fdab657f4fbf5466de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a8d6b04794cd5df59ed9c3eb93710d') in 0.008778 seconds
+  Import took 0.012045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.528398 seconds.
+  path: Assets/Pathfinding AI Assessment 2/Prefabs/unitychan_dynamic.prefab
+  artifactKey: Guid(0a602fef9567b6c4ab800303a1483a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pathfinding AI Assessment 2/Prefabs/unitychan_dynamic.prefab using Guid(0a602fef9567b6c4ab800303a1483a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b5c876766f40638d093a07719893925') in 0.074061 seconds
+  Import took 0.081641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.202356 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/face only mask.mask
+  artifactKey: Guid(c6893d99d338240cd834967aa6448379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/face only mask.mask using Guid(c6893d99d338240cd834967aa6448379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b90e42e29484c2142dbff00b626d47') in 0.010318 seconds
+  Import took 0.013138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.774573 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/ASHAMED.anim
+  artifactKey: Guid(3555863ff4ef948e298b8d11ea795ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/ASHAMED.anim using Guid(3555863ff4ef948e298b8d11ea795ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a33e7858ed92c95dc41e9e5816265c') in 0.014445 seconds
+  Import took 0.018916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011567 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/ASHAMED.anim
+  artifactKey: Guid(3555863ff4ef948e298b8d11ea795ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/ASHAMED.anim using Guid(3555863ff4ef948e298b8d11ea795ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a33e7858ed92c95dc41e9e5816265c') in 0.006934 seconds
+  Import took 0.011830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.720598 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanActionCheck.controller
+  artifactKey: Guid(212b3a957fa7bee41a0bf8c3b14ce293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanActionCheck.controller using Guid(212b3a957fa7bee41a0bf8c3b14ce293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4a6bb74d4f27b464f5134e999b2749') in 0.176028 seconds
+  Import took 0.184014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021120 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanActionCheck.controller
+  artifactKey: Guid(212b3a957fa7bee41a0bf8c3b14ce293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanActionCheck.controller using Guid(212b3a957fa7bee41a0bf8c3b14ce293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4a6bb74d4f27b464f5134e999b2749') in 0.160076 seconds
+  Import took 0.166275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.327334 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion
+  artifactKey: Guid(9aeff261260b248328b8ce74346dc8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion using Guid(9aeff261260b248328b8ce74346dc8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a38b02a7515c83c6f494a2b73cfa5bb') in 0.007982 seconds
+  Import took 0.011068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058110 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/CamPos.prefab
+  artifactKey: Guid(65eb07d65eb184e13a4b388eced0d32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/CamPos.prefab using Guid(65eb07d65eb184e13a4b388eced0d32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a583e859114f4864b44b4d5bf2280e0') in 0.010564 seconds
+  Import took 0.013628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/LookAtPos.prefab
+  artifactKey: Guid(efaf5c7817edc41d68744ffe3a3dbeb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/LookAtPos.prefab using Guid(efaf5c7817edc41d68744ffe3a3dbeb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89440ca98c8a2394cb9e79450cc14d5') in 0.008030 seconds
+  Import took 0.010931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/JumpPos.prefab
+  artifactKey: Guid(2801f2532c4364c8696fc1dc3b4c6a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/JumpPos.prefab using Guid(2801f2532c4364c8696fc1dc3b4c6a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1f6e58c18a50f5558c8faa16083827') in 0.008069 seconds
+  Import took 0.010655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/unitychan_dynamic_locomotion.prefab
+  artifactKey: Guid(69c3ed15e9d13481e8f7dc4db5532fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/unitychan_dynamic_locomotion.prefab using Guid(69c3ed15e9d13481e8f7dc4db5532fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'decc554c4737dd802f3182f92c97a8ab') in 0.103819 seconds
+  Import took 0.108892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/unitychan.prefab
+  artifactKey: Guid(40046bae76ac54bffb59f14f47d9ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/unitychan.prefab using Guid(40046bae76ac54bffb59f14f47d9ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a46f17ba53d8276a0f127a22c1fe35') in 0.099821 seconds
+  Import took 0.104835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/FrontPos.prefab
+  artifactKey: Guid(5ab36471a20d548e1b89d3501e011ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/FrontPos.prefab using Guid(5ab36471a20d548e1b89d3501e011ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d49a0ece3e5a5366ad038ec869dd82d') in 0.008219 seconds
+  Import took 0.010902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/Main Camera.prefab
+  artifactKey: Guid(79674db77adfc4d6f9f17fb043493b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/Main Camera.prefab using Guid(79674db77adfc4d6f9f17fb043493b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5165cf959d7a6bb4920587ecaa1820c2') in 0.009982 seconds
+  Import took 0.012591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.400848 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181b0873290938d3100e768dc97d9037') in 0.008028 seconds
+  Import took 0.011090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.192411 seconds.
+  path: Assets/Gizmos
+  artifactKey: Guid(93b9715f5a4bf471c8154f6cbab7e94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos using Guid(93b9715f5a4bf471c8154f6cbab7e94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404b32a4caa07f7c10349a6507215d9d') in 0.007641 seconds
+  Import took 0.010315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.735968 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanLocomotions.controller
+  artifactKey: Guid(8d5a0e0d58f4e4176a844a1a03976c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanLocomotions.controller using Guid(8d5a0e0d58f4e4176a844a1a03976c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd9d1f25f14be0624aabf9a14988681') in 0.070635 seconds
+  Import took 0.074775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.617393 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT02.fbx
+  artifactKey: Guid(e54e2e1fa0a994b389fe0654511fac47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT02.fbx using Guid(e54e2e1fa0a994b389fe0654511fac47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a57ceafedea0d3b8bb8832d8fe0f5e') in 0.138535 seconds
+  Import took 0.143549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_B.fbx
+  artifactKey: Guid(20fd7934e77f68e4983c9c0fe97c7117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_B.fbx using Guid(20fd7934e77f68e4983c9c0fe97c7117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c3891c40864102921dbe9a12a96725') in 0.120131 seconds
+  Import took 0.125297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_R.fbx
+  artifactKey: Guid(dbc663f7e83140241a679da3ca9063b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_R.fbx using Guid(dbc663f7e83140241a679da3ca9063b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '003a0bf8ba75adcef9b7d7edf55806ba') in 0.100665 seconds
+  Import took 0.105867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_L.fbx
+  artifactKey: Guid(564ea08c07b9a764d8be6f0bbdddfc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_L.fbx using Guid(564ea08c07b9a764d8be6f0bbdddfc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b7ba236a7b295e45036f3c6dfd47298') in 0.067783 seconds
+  Import took 0.071329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WIN00.fbx
+  artifactKey: Guid(e2538d48c03da46a8b0c3b59d39a4cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WIN00.fbx using Guid(e2538d48c03da46a8b0c3b59d39a4cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f4fbb611fdb412e004b149374928c5c') in 0.070414 seconds
+  Import took 0.073567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT03.fbx
+  artifactKey: Guid(f98ead48d3193eb43a7839c6847a5b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT03.fbx using Guid(f98ead48d3193eb43a7839c6847a5b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd77290ac62a50de638046861bce9b05') in 0.071663 seconds
+  Import took 0.074852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT04.fbx
+  artifactKey: Guid(685e1a7587d604fd8a8a0a56834063bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT04.fbx using Guid(685e1a7587d604fd8a8a0a56834063bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd550c2e2018edf00296d40cba58530e3') in 0.072040 seconds
+  Import took 0.075244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT03.fbx
+  artifactKey: Guid(f98ead48d3193eb43a7839c6847a5b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT03.fbx using Guid(f98ead48d3193eb43a7839c6847a5b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd77290ac62a50de638046861bce9b05') in 0.071851 seconds
+  Import took 0.075300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT04.fbx
+  artifactKey: Guid(685e1a7587d604fd8a8a0a56834063bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT04.fbx using Guid(685e1a7587d604fd8a8a0a56834063bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd550c2e2018edf00296d40cba58530e3') in 0.070583 seconds
+  Import took 0.073677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_F.fbx
+  artifactKey: Guid(e52be2fa48716194ea1d9d76686005f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_F.fbx using Guid(e52be2fa48716194ea1d9d76686005f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88715d823ff1c52349067ca3ed41227') in 0.063887 seconds
+  Import took 0.068147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT02.fbx
+  artifactKey: Guid(e54e2e1fa0a994b389fe0654511fac47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WAIT02.fbx using Guid(e54e2e1fa0a994b389fe0654511fac47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a57ceafedea0d3b8bb8832d8fe0f5e') in 0.076433 seconds
+  Import took 0.079846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_F.fbx
+  artifactKey: Guid(e52be2fa48716194ea1d9d76686005f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_WALK00_F.fbx using Guid(e52be2fa48716194ea1d9d76686005f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88715d823ff1c52349067ca3ed41227') in 0.060827 seconds
+  Import took 0.064261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 364.212839 seconds.
+  path: Assets/Pathfinding AI Assessment 2/Scripts/AgentTargetWaypoint.cs
+  artifactKey: Guid(2ec97c3c0af66274f90fb93d3352ea45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pathfinding AI Assessment 2/Scripts/AgentTargetWaypoint.cs using Guid(2ec97c3c0af66274f90fb93d3352ea45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03af4fa249ba3b7c6d0f110fc666de26') in 0.013308 seconds
+  Import took 0.017465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002417 seconds.
+  path: Assets/Pathfinding AI Assessment 2/Scripts/AgentTargetWaypoint.cs
+  artifactKey: Guid(2ec97c3c0af66274f90fb93d3352ea45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pathfinding AI Assessment 2/Scripts/AgentTargetWaypoint.cs using Guid(2ec97c3c0af66274f90fb93d3352ea45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03af4fa249ba3b7c6d0f110fc666de26') in 0.003343 seconds
+  Import took 0.005998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.743145 seconds.
+  path: Assets/Pathfinding AI Assessment 2/Prefabs/unitychan_dynamic 1.prefab
+  artifactKey: Guid(37a5af006add3744298af5385bb41ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pathfinding AI Assessment 2/Prefabs/unitychan_dynamic 1.prefab using Guid(37a5af006add3744298af5385bb41ce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffac61d0ec4421750a7170571b103bb3') in 0.107791 seconds
+  Import took 0.113460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.838988 seconds.
+  path: Assets/Pathfinding AI Assessment 2/Prefabs/IKD DONT USE.prefab
+  artifactKey: Guid(0a602fef9567b6c4ab800303a1483a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pathfinding AI Assessment 2/Prefabs/IKD DONT USE.prefab using Guid(0a602fef9567b6c4ab800303a1483a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4b6aed651b9bea1e6dc3bd9b2ded09e') in 0.074265 seconds
+  Import took 0.081246 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1464 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.6 MB.
+System memory in use after: 92.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1976.
+Total: 1.767200 ms (FindLiveObjects: 0.155800 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.481600 ms  DeleteObjects: 0.083400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 678.814863 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanARPose.controller
+  artifactKey: Guid(3173dc991e314594abd6180b45c49c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanARPose.controller using Guid(3173dc991e314594abd6180b45c49c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a001c02dac141c573b5b70c6111cfc3a') in 0.051012 seconds
+  Import took 0.057787 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1464 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1978.
+Total: 2.077900 ms (FindLiveObjects: 0.162500 ms CreateObjectMapping: 0.046500 ms MarkObjects: 1.798000 ms  DeleteObjects: 0.069400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1464 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 2.116300 ms (FindLiveObjects: 0.149800 ms CreateObjectMapping: 0.042200 ms MarkObjects: 1.855500 ms  DeleteObjects: 0.067200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000691 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1464 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1982.
+Total: 1.708200 ms (FindLiveObjects: 0.126300 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.473800 ms  DeleteObjects: 0.068100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000685 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/piehu/Desktop/Unity Stuff/Pathfinding AI Assassement 2/Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1464 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 1.726300 ms (FindLiveObjects: 0.128900 ms CreateObjectMapping: 0.035000 ms MarkObjects: 1.487600 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4550.106649 seconds.
+  path: Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanLocomotions.controller
+  artifactKey: Guid(8d5a0e0d58f4e4176a844a1a03976c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanLocomotions.controller using Guid(8d5a0e0d58f4e4176a844a1a03976c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33349539fe731998b787934f1cd17368') in 0.101531 seconds
+  Import took 0.107066 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
